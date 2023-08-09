@@ -41,6 +41,6 @@ agree to abide by the [Code Of Conduct](https://github.com/rohitg00/DevOps_Books
 
 
 ## License
-By contributing, you agree that your contributions will be licensed under its MIT License.
+By contributing, you agree that your contributions will be licensed under it's MIT License.
 
 ## Thank you! ❤️
